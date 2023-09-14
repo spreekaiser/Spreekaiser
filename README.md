@@ -6,7 +6,7 @@ My Name is Thoralf. I am an full stack developer. My working tools are:
 
 #### My working places before were at:
 - <a href="http://www.brainsphere.de/" target="_blank" rel="noopener">brainsphere informationworks GmbH</a>
-- [brainsphere informationworks GmbH](http://www.brainsphere.de/)[newtab]
+- [brainsphere informationworks GmbH](http://external.brainsphere.de/)[newtab]
 - [Ampada GmbH](https://www.ampada.de/)
 - [Digitale Lernwelten GmbH](https://dilewe.de/)
 
