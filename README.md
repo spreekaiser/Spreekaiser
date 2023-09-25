@@ -15,3 +15,4 @@ My Name is Thoralf. I am an full stack developer. My working tools are:
 2. [Spiced Academy](https://www.spiced-academy.com/de/program/full-stack-web-development) 
 
 
+My next step is to be an AI-Manager, trained by the german IHK (Indudrie and Chamber of Commerce).
