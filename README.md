@@ -2,7 +2,7 @@
 
 My Name is Thoralf. I am an full stack developer. My working tools are:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,nextjs,git,github,gitlab,linux,vscode,vercel,figma,bash&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,nextjs,angular,git,github,gitlab,linux,vscode,vercel,figma,bash&perline=9)](https://skillicons.dev)
 
 #### My working places before were at:
 - [brainsphere informationworks GmbH](http://www.brainsphere.de/)
