@@ -2,7 +2,7 @@
 
 My Name is Thoralf. I am an full stack developer. My working tools are:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,nextjs,angular,git,github,gitlab,linux,vscode,vercel,figma,bash&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,angular,nodejs,nextjs,git,github,gitlab,linux,vscode,vercel,figma,bash&perline=9)](https://skillicons.dev)
 
 #### My working places before were at:
 - [brainsphere informationworks GmbH](http://www.brainsphere.de/)
@@ -15,4 +15,4 @@ My Name is Thoralf. I am an full stack developer. My working tools are:
 2. [Spiced Academy](https://www.spiced-academy.com/de/program/full-stack-web-development) 
 
 
-My next step is to be an AI-Manager, trained by the german IHK (Chamber of Commerce and Industry).
+My next step is to be an AI-Manager and Consultant, trained by the german IHK (Chamber of Commerce and Industry).
